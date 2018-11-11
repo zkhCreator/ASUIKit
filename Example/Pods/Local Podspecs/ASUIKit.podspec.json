@@ -1,0 +1,22 @@
+{
+  "name": "ASUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of ASUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zkhCreator/ASUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zkhCreator": "zkhCreator@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zkhCreator/ASUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ASUIKit/Classes/**/*"
+}

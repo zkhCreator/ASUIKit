@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ASUIKit_Example' do
+  pod 'ASUIKit', :path => '../'
+
+  target 'ASUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
